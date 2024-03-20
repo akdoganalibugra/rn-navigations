@@ -3,7 +3,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <View>
+    <View style={styles.center}>
       <Text>This is the Contact Screen</Text>
     </View>
   );
